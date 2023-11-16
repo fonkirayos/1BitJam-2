@@ -3,5 +3,6 @@ public enum EEncounterTypes
     Combat,
     Riddle,
     Well,
-    Treasure
+    Treasure,
+    Wizard
 }
